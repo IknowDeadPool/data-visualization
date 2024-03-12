@@ -8,7 +8,7 @@
 [https://iknowdeadpool.github.io/data-visualization/]
 
 
-Please also have a look at https://crpto-bug.github.io/ which contains all the visualizations which we made that provide clear insights but were not able to make it to the website due to time constraint and integration issues.
+
 
 ### About the Dataset
 
